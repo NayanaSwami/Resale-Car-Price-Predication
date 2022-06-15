@@ -1,5 +1,5 @@
 # Resale-Car-Price-Predication
-##Price predication of resale cars
+
 
 ![Car](https://user-images.githubusercontent.com/93221488/173780687-a25903a9-f10d-41cd-899b-fc619cb1f232.PNG)
 
